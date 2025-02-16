@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\Olimp\TicTacToeAI\TicTacToeAI\bin\Debug\TicTacToeAI.exe.config
+C:\Users\PC\Desktop\Olimp\TicTacToeAI\TicTacToeAI\bin\Debug\TicTacToeAI.exe
+C:\Users\PC\Desktop\Olimp\TicTacToeAI\TicTacToeAI\bin\Debug\TicTacToeAI.pdb
+C:\Users\PC\Desktop\Olimp\TicTacToeAI\TicTacToeAI\obj\Debug\TicTacToeAI.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Olimp\TicTacToeAI\TicTacToeAI\obj\Debug\TicTacToeAI.Form1.resources
+C:\Users\PC\Desktop\Olimp\TicTacToeAI\TicTacToeAI\obj\Debug\TicTacToeAI.Properties.Resources.resources
+C:\Users\PC\Desktop\Olimp\TicTacToeAI\TicTacToeAI\obj\Debug\TicTacToeAI.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Olimp\TicTacToeAI\TicTacToeAI\obj\Debug\TicTacToeAI.exe
+C:\Users\PC\Desktop\Olimp\TicTacToeAI\TicTacToeAI\obj\Debug\TicTacToeAI.pdb
